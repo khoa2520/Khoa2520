@@ -21,7 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webbasic]
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/fluency/2x/github.png" />
@@ -36,7 +36,7 @@
 
 
 [website]: https://codeSTACKr.com
-[webbasic]: https://codeSTACKr.com
+[webbasic]: https://khoa2520.github.io/EPTRAVEL_HTML_CSS_JS_only/
 [facebook]: https://www.facebook.com/profile.php?id=100007340288042
 [instagram]: https://www.instagram.com/dangkhoa2520/
 [linkedin]: https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91%C4%83ng-khoa-683a6a1a5/
