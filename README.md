@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
@@ -40,3 +40,20 @@
 [facebook]: https://www.facebook.com/profile.php?id=100007340288042
 [instagram]: https://www.instagram.com/dangkhoa2520/
 [linkedin]: https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91%C4%83ng-khoa-683a6a1a5/
+
+// Last job:
+
+  fail-on-job2:
+    # Without this step workflow remains "green" if job2 does fail.
+    name: Job2 Status -> Workflow Status
+    needs:
+      - job1
+      - job2
+      - job3
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - uses: technote-space/workflow-conclusion-action@v2
+      - name: Check Job Status status and fail if they are red
+        if: env.WORKFLOW_CONCLUSION == 'failure'
+        run: exit 1
