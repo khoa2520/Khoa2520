@@ -33,7 +33,6 @@
 <img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/color/2x/adobe-photoshop.png" />
 <img align="left" alt="illustrator" width="26px" src="https://img.icons8.com/color/2x/adobe-illustrator.png" />
 <img align="left" alt="AdobeXD" width="26px" src="https://img.icons8.com/color/2x/adobe-xd.png" />
-<img align="left" alt="AdobeXD" width="26px" src="https://img.icons8.com/color/2x/adobe-xd.png" />
 
 
 [website]: https://codeSTACKr.com
