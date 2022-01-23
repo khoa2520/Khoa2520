@@ -25,7 +25,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="AngularJS" width="26px" src="https://t4.ftcdn.net/jpg/00/73/01/33/240_F_73013357_eDyPWw1tmiYMuGQW4BW71FKEdQG8MF3r.jpg" />
+<img align="left" alt="AngularJS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiTvC39iFN0YPwziixoRGxJrqdTmYH-YoqbylrmCi_Tfv88xqz2gEqN73AH-yJQ5on-c&usqp=CAU" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/fluency/2x/github.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/2x/git.png" />
 
