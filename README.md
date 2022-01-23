@@ -21,9 +21,11 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="AngularJS" width="26px" src="https://t4.ftcdn.net/jpg/02/95/03/85/240_F_295038577_yyg6PAw7aePNxEj7noPWr1RCusUTNJCC.jpg" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/fluency/2x/github.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/2x/git.png" />
 
