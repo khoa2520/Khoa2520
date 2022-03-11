@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning React 🤣
+- 🌱 I’m currently learning Angular & React 🤣
 - 🥅 2022 Goals: Become a Front-end Developer
 - ⚡ Fun fact: I love to Graphic design and Listen to music
 
